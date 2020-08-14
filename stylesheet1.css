@@ -1,0 +1,22 @@
+    html{
+    background: #FFA17F;  /* fallback for old browsers */
+    background: linear-gradient(to left, #8cb2d3, #ac6d90); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+    margin-top: 10%;
+}
+
+#countdown{
+    margin-top: 120px;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 47px;
+    font-family:'Rowdies', cursive;; 
+    
+}
+
+p{
+    color:whitesmoke;
+    text-align: center;
+    font-size: 51px;
+    font-family: 'Rowdies', cursive;;
+}
